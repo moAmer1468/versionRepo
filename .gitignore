@@ -1,1 +1,4 @@
 *.log
+!vip.log
+amer.txt
+node_packs/
